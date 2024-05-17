@@ -17,7 +17,7 @@ nav {
     position: fixed;
     display: flex;
     justify-content: space-between;
-    background-color: #c90505;
+    background-color: #3f353b;
     color: #FDEFF5;
     width: 100%;
     z-index: 1;
@@ -25,6 +25,9 @@ nav {
     padding: 10px;
 }
 
+h1 {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 nav a,
 nav a:visited {

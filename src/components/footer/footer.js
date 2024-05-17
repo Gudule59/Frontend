@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function footer() {
-  return <footer>Fabien CARLIEZ @2024</footer>;
+  return <footer> Copyright © 2024 Fabien CARLIEZ </footer>;
 }
