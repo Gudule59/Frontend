@@ -131,6 +131,16 @@ $tertiary-color: #f0f0f0 ;
     }
   }
 
+  .portfolio__content a {
+    color: #ffffff;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  
+  .portfolio__content a:hover {
+    color: goldenrod;
+  }
+
   @media (max-width : 768px) {
     .portfolio {
       padding: 70px 0;

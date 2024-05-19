@@ -4,7 +4,6 @@ import Kasa from '../images/outils/kasa.jpg';
 import Grimoire from '../images/outils/grimoire.png';
 
 const portfolio =  [
-
     {
         "name" : "Mon Vieux Grimoire",
         "image" : Grimoire,

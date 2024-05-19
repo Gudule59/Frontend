@@ -41,8 +41,7 @@ const icone = [
         "image": iconeGithub
     },
  
-
-    
+   
   ]
   export default icone
 
