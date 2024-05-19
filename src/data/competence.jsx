@@ -3,9 +3,9 @@ import iconeCSS from '../images/outils/icone_css.svg';
 import iconeGithub from '../images/outils/icone_github.svg';
 import iconeJavaScript from '../images/outils/icone_javascript.svg';
 import iconeReact from '../images/outils/icone_react.svg';
-import iconeMongo from '../images/outils/icone_mongo.jpg';
+import iconeMongo from '../images/outils/icone_mongo.png';
+import iconeNodejs from '../images/outils/icone_nodejs.png';
 import iconeSass from '../images/outils/icone_sass.svg';
-
 
 const icone = [
     {
@@ -33,6 +33,10 @@ const icone = [
         "image": iconeMongo
     },
     {
+        "name": "NodeJS",
+        "image": iconeNodejs
+    },
+    {
         "name": "GITHUB",
         "image": iconeGithub
     },
@@ -40,6 +44,8 @@ const icone = [
 
     
   ]
-
   export default icone
+
+
+  
   

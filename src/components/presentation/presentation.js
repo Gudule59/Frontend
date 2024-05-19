@@ -18,7 +18,7 @@ function Info() {
             <p className='info__subtitle'>
                 Depuis mon enfance, je suis passionné par l'<strong>informatique</strong>, et je souhaite aujourd'hui
                 transformer cette passion en une carrière. Mon objectif est de continuer à développer mes compétences et
-                 mes connaissances dans ce vaste univers qu'est l'<strong>informatique</strong>. 
+                 mes connaissances avec <strong> Php / Python / Vue.js</strong>. 
             </p>
             <p className='info__subtitle'>
                 N'hésitez pas à me contacter si vous êtes à la recherche d'un <strong>développeur web</strong> enthousiaste, motivé et curieux pour rejoindre 
