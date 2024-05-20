@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Frontend/static/css/main.b66b0f86.css",
+    "main.js": "/Frontend/static/js/main.f11728a8.js",
+    "static/js/453.db175375.chunk.js": "/Frontend/static/js/453.db175375.chunk.js",
+    "static/media/ninacarducci.png": "/Frontend/static/media/ninacarducci.6dff457c7ac6c254b4b1.png",
+    "static/media/grimoire.png": "/Frontend/static/media/grimoire.719d2b109ed5037ab0a0.png",
+    "static/media/image_portfolio.jpg": "/Frontend/static/media/image_portfolio.f66f7c15e8568041c365.jpg",
+    "static/media/kasa.jpg": "/Frontend/static/media/kasa.d0c6314369bf9eca5fec.jpg",
+    "static/media/CARLIEZ_Fabien.pdf": "/Frontend/static/media/CARLIEZ_Fabien.6660298bd01684af6fad.pdf",
+    "static/media/icone_mongo.png": "/Frontend/static/media/icone_mongo.a8889d623357ad8ce30e.png",
+    "static/media/icone_nodejs.png": "/Frontend/static/media/icone_nodejs.8683d89cf78ffae3d1f7.png",
+    "static/media/icone_sass.svg": "/Frontend/static/media/icone_sass.903cef0c9879296f452e2bd0364f58e9.svg",
+    "static/media/icone_react.svg": "/Frontend/static/media/icone_react.9342c38419495e33d129b6e97166cd00.svg",
+    "static/media/icone_github.svg": "/Frontend/static/media/icone_github.dc49a960a2d3c5a49c806f6188a7733b.svg",
+    "static/media/icone_javascript.svg": "/Frontend/static/media/icone_javascript.081325c6f229605dce15142ddd948d6d.svg",
+    "index.html": "/Frontend/index.html",
+    "static/media/icone_css.svg": "/Frontend/static/media/icone_css.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/icone_html.svg": "/Frontend/static/media/icone_html.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "main.b66b0f86.css.map": "/Frontend/static/css/main.b66b0f86.css.map",
+    "main.f11728a8.js.map": "/Frontend/static/js/main.f11728a8.js.map",
+    "453.db175375.chunk.js.map": "/Frontend/static/js/453.db175375.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b66b0f86.css",
+    "static/js/main.f11728a8.js"
+  ]
+}
