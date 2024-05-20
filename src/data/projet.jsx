@@ -1,7 +1,7 @@
 
-import Ninacarducci from '../images/outils/ninacarducci.png';
+import Ninacarducci from '../images/outils/ninacarducci.jpg';
 import Kasa from '../images/outils/kasa.jpg';
-import Grimoire from '../images/outils/grimoire.png';
+import Grimoire from '../images/outils/grimoire.jpg';
 
 const portfolio =  [
     {
