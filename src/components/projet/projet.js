@@ -7,7 +7,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons';
 function Portfolio() {
   return (
     <section className='portfolio' id='portfolio'>
-      <h2 className='title'>Projets</h2>
+      <h2 className='title' id='projet'>Projets</h2>
       <div className='portfolio__container'>
         {portfolio.map((competence, index) => (
           <div className='portfolio__card' key={index}>

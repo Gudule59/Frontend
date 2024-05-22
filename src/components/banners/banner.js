@@ -6,13 +6,10 @@ export default function banner() {
       <h1>Fabien CARLIEZ</h1>
       <ul>
         <li>
-          <a href="#intro">Présentation</a>
+          <a href="#presentation">Présentation</a>
         </li>
         <li>
-          <a href="#projets">Projets</a>
-        </li>
-        <li>
-          <a href="#contact">Contact</a>
+          <a href="#projet">Projets</a>
         </li>
       </ul>
     </nav>

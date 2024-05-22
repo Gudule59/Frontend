@@ -7,21 +7,21 @@ function Info() {
     return (
       <section className='info' id='about'>
         <div className='info__content'>
-          <h2 className='title'>En quelques mots ...</h2>
+          <h2 className='title' id='presentation'>En quelques mots ...</h2>
           <div className='info__flex '>
           <div className='info__text'>
             <p className='info__subtitle'>
                 Je suis Fabien, un <strong>développeur web</strong> spécialisé dans le <strong>front-end</strong>.
-                 J'ai suivi une formation intensive de 6 mois chez OpenClassrooms en tant que <strong>Développeur web</strong>, 
+                 J'ai suivi une formation intensive de 6 mois chez OpenClassrooms en tant que <strong>Développeur full stack</strong>, 
                  ce qui m'a permis d'acquérir un diplôme de niveau Bac+2.
             </p>
             <p className='info__subtitle'>
                 Depuis mon enfance, je suis passionné par l'<strong>informatique</strong>, et je souhaite aujourd'hui
                 transformer cette passion en une carrière. Mon objectif est de continuer à développer mes compétences et
-                 mes connaissances avec <strong> Php / Python / Vue.js</strong>. 
+                 mes connaissances avec <strong> Php / Vue.js / SQL </strong>. 
             </p>
             <p className='info__subtitle'>
-                N'hésitez pas à me contacter si vous êtes à la recherche d'un <strong>développeur web</strong> enthousiaste, motivé et curieux pour rejoindre 
+                N'hésitez pas à me contacter si vous êtes à la recherche d'un développeur <strong> enthousiaste, motivé et curieux </strong>pour rejoindre 
                 votre équipe ou collaborer sur un projet. Je suis impatient de contribuer à votre succès.
             </p>
             <div className='info__cv'> 
