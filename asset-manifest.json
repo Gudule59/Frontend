@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Frontend/static/css/main.b66b0f86.css",
-    "main.js": "/Frontend/static/js/main.90507f0a.js",
+    "main.css": "/Frontend/static/css/main.36140e01.css",
+    "main.js": "/Frontend/static/js/main.6cdb9b20.js",
     "static/js/453.db175375.chunk.js": "/Frontend/static/js/453.db175375.chunk.js",
     "static/media/kasa.jpg": "/Frontend/static/media/kasa.d0c6314369bf9eca5fec.jpg",
     "static/media/CARLIEZ_Fabien.pdf": "/Frontend/static/media/CARLIEZ_Fabien.6660298bd01684af6fad.pdf",
     "static/media/ninacarducci.jpg": "/Frontend/static/media/ninacarducci.5116ee793c58fdc7082d.jpg",
     "static/media/grimoire.jpg": "/Frontend/static/media/grimoire.39e110644d974d031237.jpg",
-    "static/media/image_portfolio.jpg": "/Frontend/static/media/image_portfolio.34ecad8c219503cdc854.jpg",
+    "static/media/image_portfolio.jpg": "/Frontend/static/media/image_portfolio.6f185627fcdaa9394250.jpg",
     "static/media/icone_mongo.png": "/Frontend/static/media/icone_mongo.a8889d623357ad8ce30e.png",
     "static/media/icone_nodejs.png": "/Frontend/static/media/icone_nodejs.8683d89cf78ffae3d1f7.png",
     "static/media/icone_sass.svg": "/Frontend/static/media/icone_sass.903cef0c9879296f452e2bd0364f58e9.svg",
@@ -17,12 +17,12 @@
     "index.html": "/Frontend/index.html",
     "static/media/icone_css.svg": "/Frontend/static/media/icone_css.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/icone_html.svg": "/Frontend/static/media/icone_html.c1bb84e022ca9d76984d4b943bd678fd.svg",
-    "main.b66b0f86.css.map": "/Frontend/static/css/main.b66b0f86.css.map",
-    "main.90507f0a.js.map": "/Frontend/static/js/main.90507f0a.js.map",
+    "main.36140e01.css.map": "/Frontend/static/css/main.36140e01.css.map",
+    "main.6cdb9b20.js.map": "/Frontend/static/js/main.6cdb9b20.js.map",
     "453.db175375.chunk.js.map": "/Frontend/static/js/453.db175375.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b66b0f86.css",
-    "static/js/main.90507f0a.js"
+    "static/css/main.36140e01.css",
+    "static/js/main.6cdb9b20.js"
   ]
 }
