@@ -69,6 +69,7 @@
     background-color: lighten(black, 5%);
   }
   
+  // fais glisser
   .portfolio__content {
     position: relative;
     @include flex-center;
